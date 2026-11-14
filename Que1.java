@@ -25,6 +25,7 @@ public class Que1 {
         for (int after : arr) {
             System.out.print(after+" ");
         }
+        sc.close();
     }
 
 }
