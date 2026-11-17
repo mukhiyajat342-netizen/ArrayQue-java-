@@ -18,6 +18,7 @@ public class Que3 {
                 System.out.println(num);
             }
         }
+        sc.close();
     }
 
 }

@@ -22,5 +22,6 @@ public class Que5 {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }
