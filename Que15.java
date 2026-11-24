@@ -1,3 +1,4 @@
+// Find the minimum absolute difference between any two elements
 import java.util.Scanner;
 import java.util.Arrays;
 
@@ -21,6 +22,7 @@ public class Que15 {
             }
         }
         System.out.println("Min absolute diffrence : "+ minDiff);
+        sc.close();
     }
 
 }

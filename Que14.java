@@ -30,6 +30,7 @@ public class Que14 {
         } else {
             System.out.println("Array not in a AP");
         }
+        sc.close();
 
     }
 
